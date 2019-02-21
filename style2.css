@@ -1,0 +1,36 @@
+body{
+	background-image: url("images/laptop.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 699px;
+
+}
+.container{
+	border: 0px solid black;
+}
+h3{
+	color: white;
+	position: absolute;
+	top: 25px;
+	left: 0px;
+	border:0px solid black;
+	text-align: center;
+}
+.row{
+	border: 0px solid black;
+}
+
+.btn{
+	color: white;
+background-color:  #ff4d4d;
+font-size: 12px;
+padding: 12px 25px;
+border-radius: 50px;
+cursor: pointer;
+border:0px solid black;
+margin-top: 510px;
+margin-left: 460px;
+
+}
+.btn:hover{
+	background-color: black;
+}
