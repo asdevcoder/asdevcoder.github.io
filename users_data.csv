@@ -1,0 +1,17 @@
+name,age,colour,category
+red,30,red,Adult
+dapo,41,blue,Adult
+name,age,colour,category
+sophie,40,green,Adult
+fola,20,grey,Adult
+name,age,colour,category
+Anehita,29,red,Adult
+name,age,colour,category
+ane,70,blue,Senior citizen
+ane,30,red,Adult
+stop,25,lagos,Adult
+stop,6,ekt,Minor,4.63,56.7,Full,metal
+stop,2,abj,Minor,3.62,77.5,Empty,metal
+stop,4,abj,Minor,0.88,55.4,OK,metal
+ane,5,abj,Minor,4.71,34.4,Idle,metal
+ane,5,lag,Minor,4.24,91.7,Full,sanitary_pad
